@@ -33,3 +33,5 @@ Features You'll See:
   - V-Chat (our chatbot)
 - A consistent and friendly **UI theme** (with green tones to keep it fresh )
 
+To use the data download and unzip the folder for further access
+
